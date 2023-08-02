@@ -1,9 +1,9 @@
 .microsoft {
     background-color: #f25022;
     box-shadow:
-        55px 0 0 0 #7fba00,
-        0 55px 0 0 #00a4ef,
-        55px 55px 0 0 #ffb900;
+    55px 0 0 0 #7fba00,
+    0 55px 0 0 #00a4ef,
+    55px 55px 0 0 #ffb900;
     height: 50px;
     width: 50px;
 }
